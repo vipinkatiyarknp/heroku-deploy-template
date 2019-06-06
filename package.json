@@ -1,7 +1,15 @@
 {
-  "name": "json-hint-server",
-  "version": "0.0.0",
-  "private": true,
+  "name": "heroku-deployment-template",
+  "version": "1.0.8",
+  "description": "This template is useful when we want to deploy our angular based application on the Heroku for free.",
+  "author": "Vipin Katiyar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vipinkatiyarknp/heroku-deploy-template"
+  },
+  "keywords": ["angular", "express js", "heroku", "heroku deployment", "Express build for heroku"],
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "start": "node ./bin/www"
   },
