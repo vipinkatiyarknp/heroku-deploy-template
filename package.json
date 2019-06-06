@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/vipinkatiyarknp/heroku-deploy-template"
   },
-  "keywords": ["angular, express js, heroku, heroku deployment, Express build for heroku"],
+  "keywords": ["angular, expressjs, heroku, heroku-deployment, Express-build-for-heroku"],
   "license": "MIT",
   "private": false,
   "scripts": {
